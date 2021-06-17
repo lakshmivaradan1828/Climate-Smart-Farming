@@ -18,39 +18,38 @@
 
 <h1>Overview</h1>
 
-
+Use technology to feed the world's population and fight global change
  
 
 <h2>Problem Statement</h2>
 
- Agriculture is the most important income source for the majority of the world's poor. The below figure gives a rough statistics on the percentage of population dependant on agriculture
+Agriculture is the most important income source for the majority of the world's poor. The below figure gives a rough statistics on the percentage of population dependant on agriculture
 
+![Agriculture Dependant Population](https://github.com/VeenaHarikrishnan/Climate-Smart-Farming/blob/main/images/Agriculturedependency.PNG)
+
+The key to achieving global food security for the millions lies in developing the potential to increase the productivity and incomes by adopting better farming methods.
+The effects of climate change like changes in precipitation patterns, high temperature, frequent extreme weather events, rising sea levels etc is hitting the developing countries the hardest posing a risk for agriculture, food and water supplies.Resilience is therefore a predominant concern.
 
 
 <h2>Idea and Solution</h2>
 
- 
+By using IoT sensors, Cloud solutions and Open APIs to collect environmental and machine metrics, farmers can make informed decisions, and improve just about every aspect of  crop farming. Vy using smart agriculture sensors to monitor the state of crops, farmers can define the quantity of pesticides and fertilizers they have to use to reach optimal efficiency. Also smart irrigation systems can ensure that water does not get wasted.
 
-
-
- 
 
 <h2>Technology</h2>
 
- 
-
-
+ We made use of Node-Red flow editor and modules, IOT sensors and simulators, device twins, Azure IOT Hub, stream analytics, Alexa virtual smart home , IBM cognitive services, slack, twitter, twilio APIs and other open APIs to come up with a solution to address smart farming needs. Cloud hosting and storage solutions are also used.
 
  
 
 <h2>Architecture Diagram </h2>
 
- 
+ ![Architecture Diagram]()
 
 
 <h2>IBM Services Used </h2>
 
- 
+Node-Red<br/>
 
 IBM Cloud Foundry<br/>
 
@@ -65,11 +64,10 @@ IBM Natural Language Understanding (NLU)<br/>
 IBM Cloud Object Storage<br/>
 
 
-
 <h2>SourceCode</h2>
 
  
-
+Uploaded in github
 
 
 Overall Solution Video -Refer-<><br/>
@@ -80,22 +78,18 @@ Additional Videos Showcasing Application Demo -Refer-<><br/>
 
  
 
-<h2>Challenges Faced during Mobile Application Development:</h2>
+<h2>Challenges Faced during  Application Development:</h2>
 
+ The cloud platform was not stable which impacted the smooth development.The team was busy at work and we felt it would have been better if the hackathon was on week-ends
  
 
+<h2> Solution Road Map</h2>
 
  
+We plan to enhance the solution to include solutions to improve the adoption of energy efficient systems by monitoring energy production of wind mill and assessing the cash flow economics of the same. Also we would like to help the farmers get real time help in assessment of soil, get expert advice on type of crops to be used, provision of a efficient supply chain to ensure that crops are sold on time and to encourage organic farming .
 
-<h2>The Solution Road Map</h2>
-
- 
-
-
-
- 
 
 <h2>References</h2>
 
- 
+ IBM Cloud documentation, Node-red tutorials
 
