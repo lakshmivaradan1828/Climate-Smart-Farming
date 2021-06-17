@@ -66,11 +66,11 @@ IBM Cloud Object Storage<br/>
 
 <h2>SourceCode</h2>
 
-Node red flows and modules json filebr>
-Node js sensor code</br>
+Node red flows and modules json file<br/>
+Node js sensor code<br/>
 
 
-Overall Solution Video -Refer-<><br/>
+Overall Solution Video -Refer-<br/>
 
  
 
