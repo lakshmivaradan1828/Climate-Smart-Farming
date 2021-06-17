@@ -1,28 +1,29 @@
 # Climate Smart Farming
 
-<h2>Team & Authors:</h2>
+<h2>The Team - Volvo Hack’o Holics </h2>
 
  
 
-1.
+1. Akshita
 
-2.
+2. Tejaswini
 
-3.
+3. Indira
 
-4.
+4. Lakshmi
 
-5.
+5. Veena
 
  
 
 <h1>Overview</h1>
 
+
  
 
 <h2>Problem Statement</h2>
 
- 
+ Agriculture is the most important income source for the majority of the world's poor. The below figure gives a rough statistics on the percentage of population dependant on agriculture
 
 
 
