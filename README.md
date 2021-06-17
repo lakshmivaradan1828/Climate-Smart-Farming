@@ -44,7 +44,7 @@ By using IoT sensors, Cloud solutions and Open APIs to collect environmental and
 
 <h2>Architecture Diagram </h2>
 
- ![Architecture Diagram]()
+ ![Architecture Diagram](https://github.com/VeenaHarikrishnan/Climate-Smart-Farming/blob/main/Architecture/smartfarm%20(1).jpg)
 
 
 <h2>IBM Services Used </h2>
