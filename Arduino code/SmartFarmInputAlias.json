@@ -1,0 +1,376 @@
+[
+  {
+    "messageId": 22,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 25.2434065386586,
+    "humidity": 78.70220724176559,
+    "EventProcessedUtcTime": "2021-06-16T10:08:01.0641250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2021-06-16T10:07:55.1060000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "VeenaIOTSensor",
+      "ConnectionDeviceGenerationId": "637593714764042689",
+      "EnqueuedTime": "2021-06-16T10:07:55.1070000Z",
+      "StreamId": null
+    }
+  },
+  {
+    "messageId": 21,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 31.86518431169772,
+    "humidity": 69.60275209039955,
+    "EventProcessedUtcTime": "2021-06-16T10:08:01.0641250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2021-06-16T10:07:53.0900000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "VeenaIOTSensor",
+      "ConnectionDeviceGenerationId": "637593714764042689",
+      "EnqueuedTime": "2021-06-16T10:07:53.0950000Z",
+      "StreamId": null
+    }
+  },
+  {
+    "messageId": 20,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 24.12021861431495,
+    "humidity": 67.20938213340904,
+    "EventProcessedUtcTime": "2021-06-16T10:08:01.0641250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2021-06-16T10:07:51.0900000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "VeenaIOTSensor",
+      "ConnectionDeviceGenerationId": "637593714764042689",
+      "EnqueuedTime": "2021-06-16T10:07:51.0990000Z",
+      "StreamId": null
+    }
+  },
+  {
+    "messageId": 19,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 23.84862881257294,
+    "humidity": 75.45749839893189,
+    "EventProcessedUtcTime": "2021-06-16T10:08:01.0641250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2021-06-16T10:07:49.0890000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "VeenaIOTSensor",
+      "ConnectionDeviceGenerationId": "637593714764042689",
+      "EnqueuedTime": "2021-06-16T10:07:49.0990000Z",
+      "StreamId": null
+    }
+  },
+  {
+    "messageId": 18,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 22.78463690276806,
+    "humidity": 78.81563231321391,
+    "EventProcessedUtcTime": "2021-06-16T10:08:01.0641250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2021-06-16T10:07:47.1030000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "VeenaIOTSensor",
+      "ConnectionDeviceGenerationId": "637593714764042689",
+      "EnqueuedTime": "2021-06-16T10:07:47.1080000Z",
+      "StreamId": null
+    }
+  },
+  {
+    "messageId": 17,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 23.699741101757972,
+    "humidity": 68.03684668207944,
+    "EventProcessedUtcTime": "2021-06-16T10:08:01.0641250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2021-06-16T10:07:45.2550000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "VeenaIOTSensor",
+      "ConnectionDeviceGenerationId": "637593714764042689",
+      "EnqueuedTime": "2021-06-16T10:07:45.2480000Z",
+      "StreamId": null
+    }
+  },
+  {
+    "messageId": 16,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 26.886501263675125,
+    "humidity": 75.9774124165388,
+    "EventProcessedUtcTime": "2021-06-16T10:08:00.0507866Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2021-06-16T10:07:43.0980000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "VeenaIOTSensor",
+      "ConnectionDeviceGenerationId": "637593714764042689",
+      "EnqueuedTime": "2021-06-16T10:07:43.0980000Z",
+      "StreamId": null
+    }
+  },
+  {
+    "messageId": 15,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 26.665056666876847,
+    "humidity": 79.6260516973438,
+    "EventProcessedUtcTime": "2021-06-16T10:08:00.0507866Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2021-06-16T10:07:41.1130000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "VeenaIOTSensor",
+      "ConnectionDeviceGenerationId": "637593714764042689",
+      "EnqueuedTime": "2021-06-16T10:07:41.1130000Z",
+      "StreamId": null
+    }
+  },
+  {
+    "messageId": 14,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 31.874993238344995,
+    "humidity": 60.304536669025346,
+    "EventProcessedUtcTime": "2021-06-16T10:08:00.0507866Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2021-06-16T10:07:38.8620000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "VeenaIOTSensor",
+      "ConnectionDeviceGenerationId": "637593714764042689",
+      "EnqueuedTime": "2021-06-16T10:07:38.8280000Z",
+      "StreamId": null
+    }
+  },
+  {
+    "messageId": 13,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 21.527955554055296,
+    "humidity": 62.237078543468535,
+    "EventProcessedUtcTime": "2021-06-16T10:08:00.0507866Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2021-06-16T10:07:36.6750000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "VeenaIOTSensor",
+      "ConnectionDeviceGenerationId": "637593714764042689",
+      "EnqueuedTime": "2021-06-16T10:07:36.6780000Z",
+      "StreamId": null
+    }
+  },
+  {
+    "messageId": 12,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 28.627660044307262,
+    "humidity": 79.56773636396804,
+    "EventProcessedUtcTime": "2021-06-16T10:08:00.0507866Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2021-06-16T10:07:34.6750000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "VeenaIOTSensor",
+      "ConnectionDeviceGenerationId": "637593714764042689",
+      "EnqueuedTime": "2021-06-16T10:07:34.6770000Z",
+      "StreamId": null
+    }
+  },
+  {
+    "messageId": 11,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 31.203775238683424,
+    "humidity": 60.5031463649817,
+    "EventProcessedUtcTime": "2021-06-16T10:08:00.0507866Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2021-06-16T10:07:32.6750000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "VeenaIOTSensor",
+      "ConnectionDeviceGenerationId": "637593714764042689",
+      "EnqueuedTime": "2021-06-16T10:07:32.6810000Z",
+      "StreamId": null
+    }
+  },
+  {
+    "messageId": 10,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 21.238478536603186,
+    "humidity": 68.38838127987376,
+    "EventProcessedUtcTime": "2021-06-16T10:08:00.0507866Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2021-06-16T10:07:31.0970000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "VeenaIOTSensor",
+      "ConnectionDeviceGenerationId": "637593714764042689",
+      "EnqueuedTime": "2021-06-16T10:07:31.1070000Z",
+      "StreamId": null
+    }
+  },
+  {
+    "messageId": 9,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 27.507430101780933,
+    "humidity": 65.77628035715935,
+    "EventProcessedUtcTime": "2021-06-16T10:08:00.0507866Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2021-06-16T10:07:29.0950000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "VeenaIOTSensor",
+      "ConnectionDeviceGenerationId": "637593714764042689",
+      "EnqueuedTime": "2021-06-16T10:07:29.0960000Z",
+      "StreamId": null
+    }
+  },
+  {
+    "messageId": 8,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 30.8286856794039,
+    "humidity": 77.01413359471547,
+    "EventProcessedUtcTime": "2021-06-16T10:08:00.0507866Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2021-06-16T10:07:27.0960000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "VeenaIOTSensor",
+      "ConnectionDeviceGenerationId": "637593714764042689",
+      "EnqueuedTime": "2021-06-16T10:07:27.0980000Z",
+      "StreamId": null
+    }
+  },
+  {
+    "messageId": 7,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 22.312164283029453,
+    "humidity": 79.00426793370775,
+    "EventProcessedUtcTime": "2021-06-16T10:08:00.0458394Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2021-06-16T10:07:25.1090000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "VeenaIOTSensor",
+      "ConnectionDeviceGenerationId": "637593714764042689",
+      "EnqueuedTime": "2021-06-16T10:07:25.1180000Z",
+      "StreamId": null
+    }
+  },
+  {
+    "messageId": 6,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 28.847744034551457,
+    "humidity": 74.68541270011885,
+    "EventProcessedUtcTime": "2021-06-16T10:08:00.0458394Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2021-06-16T10:07:23.1090000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "VeenaIOTSensor",
+      "ConnectionDeviceGenerationId": "637593714764042689",
+      "EnqueuedTime": "2021-06-16T10:07:23.1050000Z",
+      "StreamId": null
+    }
+  },
+  {
+    "messageId": 5,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 27.833642544281062,
+    "humidity": 67.78833122185196,
+    "EventProcessedUtcTime": "2021-06-16T10:08:00.0458394Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2021-06-16T10:07:21.0930000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "VeenaIOTSensor",
+      "ConnectionDeviceGenerationId": "637593714764042689",
+      "EnqueuedTime": "2021-06-16T10:07:21.1010000Z",
+      "StreamId": null
+    }
+  },
+  {
+    "messageId": 4,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 23.24715851167301,
+    "humidity": 70.74421517739266,
+    "EventProcessedUtcTime": "2021-06-16T10:08:00.0458394Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2021-06-16T10:07:19.0920000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "VeenaIOTSensor",
+      "ConnectionDeviceGenerationId": "637593714764042689",
+      "EnqueuedTime": "2021-06-16T10:07:19.1010000Z",
+      "StreamId": null
+    }
+  },
+  {
+    "messageId": 3,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 27.64783719512721,
+    "humidity": 72.74996644651934,
+    "EventProcessedUtcTime": "2021-06-16T10:08:00.0458394Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2021-06-16T10:07:17.1070000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "VeenaIOTSensor",
+      "ConnectionDeviceGenerationId": "637593714764042689",
+      "EnqueuedTime": "2021-06-16T10:07:17.1100000Z",
+      "StreamId": null
+    }
+  },
+  {
+    "messageId": 2,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 28.875923205850775,
+    "humidity": 71.67664344129537,
+    "EventProcessedUtcTime": "2021-06-16T10:08:00.0458394Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2021-06-16T10:07:15.1070000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "VeenaIOTSensor",
+      "ConnectionDeviceGenerationId": "637593714764042689",
+      "EnqueuedTime": "2021-06-16T10:07:15.1080000Z",
+      "StreamId": null
+    }
+  },
+  {
+    "messageId": 1,
+    "deviceId": "Raspberry Pi Web Client",
+    "temperature": 29.360944092376553,
+    "humidity": 73.05191199015113,
+    "EventProcessedUtcTime": "2021-06-16T10:08:00.0458394Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2021-06-16T10:07:13.2790000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "VeenaIOTSensor",
+      "ConnectionDeviceGenerationId": "637593714764042689",
+      "EnqueuedTime": "2021-06-16T10:07:13.1040000Z",
+      "StreamId": null
+    }
+  }
+]
